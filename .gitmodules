@@ -1,0 +1,6 @@
+[submodule "packages/yehui-cli"]
+	path = packages/yehui-cli
+	url = https://github.com/yeyeyehui/yehui-cli.git
+[submodule "packages/template"]
+	path = packages/template
+	url = https://github.com/yeyeyehui/yehui-template.git
