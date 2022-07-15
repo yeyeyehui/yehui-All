@@ -4,3 +4,6 @@
 [submodule "packages/template"]
 	path = packages/template
 	url = https://github.com/yeyeyehui/yehui-template.git
+[submodule "packages/business-components"]
+	path = packages/business-components
+	url = https://github.com/yeyeyehui/business-components.git
